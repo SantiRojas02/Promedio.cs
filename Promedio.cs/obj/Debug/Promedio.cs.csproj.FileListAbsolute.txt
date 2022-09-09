@@ -1,0 +1,5 @@
+D:\Facultad\Programacion\Act 1 c#\Promedio.cs\Promedio.cs\bin\Debug\Promedio.cs.exe.config
+D:\Facultad\Programacion\Act 1 c#\Promedio.cs\Promedio.cs\bin\Debug\Promedio.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Promedio.cs\Promedio.cs\bin\Debug\Promedio.cs.pdb
+D:\Facultad\Programacion\Act 1 c#\Promedio.cs\Promedio.cs\obj\Debug\Promedio.cs.exe
+D:\Facultad\Programacion\Act 1 c#\Promedio.cs\Promedio.cs\obj\Debug\Promedio.cs.pdb
